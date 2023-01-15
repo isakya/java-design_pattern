@@ -7,7 +7,7 @@ import java.util.Date;
 // 针对于d包中的内容，修改代码如下：
 
 /***
- *
+ * 把对象信息写入到内存当中，然后在从内存中读取出来，就可以做到深拷贝，这样就不用考虑存储位置问题
  */
 class WeekReport implements Cloneable, Serializable {
     private int id;

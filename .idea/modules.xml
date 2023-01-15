@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/designpattern.iml" filepath="$PROJECT_DIR$/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/../springboot/springboot-config/springboot-config.iml" />
     </modules>
   </component>
 </project>
