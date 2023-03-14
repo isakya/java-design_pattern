@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/izumi/a_singleresponsibility/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/a_singleresponsibility/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/b_openclose/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/c_interfaceisolation/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/d_dependencyreverse/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/e_demeter/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/f_liskvo/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/g_composite/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/h_simplefactory/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/k_prototype/readme.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/com/izumi/l_builder/readme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/izumi/zz_classrelation/Relation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/readme.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/../springboot/springboot-config/src/main/java" charset="UTF-8" />
   </component>
 </project>
